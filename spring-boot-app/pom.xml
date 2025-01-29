@@ -30,6 +30,7 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+	<!-- web, devtools, h2, test -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>

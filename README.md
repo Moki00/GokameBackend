@@ -2,4 +2,7 @@
 
 this is the backend for Gokame.com
 
-server on BlueHost
+run in terminal
+
+view at
+http://localhost:8080/greeting
