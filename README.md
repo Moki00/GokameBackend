@@ -1,10 +1,9 @@
 # GokameBackend
 
 this is the backend for Gokame.com
-
 run in terminal
 
-this is broken:
+this is broken in GreetingController:
 http://localhost:8080/greeting?name=Hans
 
 this works:
