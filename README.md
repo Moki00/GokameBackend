@@ -4,5 +4,8 @@ this is the backend for Gokame.com
 
 run in terminal
 
-view at
-http://localhost:8080/greeting
+this is broken:
+http://localhost:8080/greeting?name=Hans
+
+this works:
+http://localhost:8080/hello?name=Moki
