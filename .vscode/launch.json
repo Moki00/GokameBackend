@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RestServiceApplication",
+            "request": "launch",
+            "mainClass": "com.gokame.restservice.RestServiceApplication",
+            "projectName": "spring-boot-app"
+        },
+        {
+            "type": "java",
             "name": "MainApplication",
             "request": "launch",
             "mainClass": "com.gokame.spring_boot_app.MainApplication",
