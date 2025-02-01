@@ -4,6 +4,13 @@
             "type": "java",
             "name": "RestServiceApplication",
             "request": "launch",
+            "mainClass": "com.gokame.RestServiceApplication",
+            "projectName": "spring-boot-app"
+        },
+        {
+            "type": "java",
+            "name": "RestServiceApplication",
+            "request": "launch",
             "mainClass": "com.gokame.restservice.RestServiceApplication",
             "projectName": "spring-boot-app"
         },
